@@ -1,5 +1,7 @@
 # Agenda
-## ¿Qué hace un Sistema Operativo? ##
-* Definición de los Sistemas Operativos
-* Virtualización de Recursos
-* Objetivos de diseño de los Sistemas Operativos
+## Â¿QuÃ© hace un Sistema Operativo? ##
+* DefiniciÃ³n de los Sistemas Operativos
+* VirtualizaciÃ³n de Recursos
+* Objetivos de diseÃ±o de los Sistemas Operativos
+
+>Eso es todo amigos
